@@ -34,7 +34,17 @@ class _MobileLayout extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          _HeaderImage(app: app),
+          Stack(
+            children: [
+              _HeaderImage(app: app),
+              SafeArea(
+                child: Padding(
+                  padding: const EdgeInsets.only(left: 16),
+                  child: _BackButton(),
+                ),
+              ),
+            ],
+          ),
           Padding(
             padding: const EdgeInsets.all(16.0),
             child: Column(
@@ -132,12 +142,6 @@ class _HeaderImage extends StatelessWidget {
         Hero(
           tag: app.name,
           child: Image.asset(app.thumbnail, fit: BoxFit.cover),
-        ),
-        SafeArea(
-          child: Padding(
-            padding: const EdgeInsets.only(left: 16),
-            child: _BackButton(),
-          ),
         ),
       ],
     );
