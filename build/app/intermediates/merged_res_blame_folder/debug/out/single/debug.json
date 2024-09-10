@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxxhdpi_apps_icon_adaptive_back.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxxhdpi/apps_icon_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-mdpi_apps_icon.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-mdpi/apps_icon.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-hdpi_apps_icon.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-hdpi/apps_icon.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxxhdpi_apps_icon.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxxhdpi/apps_icon.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xhdpi_apps_icon.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xhdpi/apps_icon.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxxhdpi_apps_icon_adaptive_fore.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxxhdpi/apps_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-mdpi_apps_icon_adaptive_fore.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-mdpi/apps_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxhdpi_apps_icon.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxhdpi/apps_icon.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-mdpi_apps_icon_adaptive_back.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-mdpi/apps_icon_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xhdpi_apps_icon_adaptive_fore.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xhdpi/apps_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-anydpi-v26_apps_icon.xml.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-anydpi-v26/apps_icon.xml"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-hdpi_apps_icon_adaptive_back.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-hdpi/apps_icon_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxhdpi_apps_icon_adaptive_fore.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxhdpi/apps_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-hdpi_apps_icon_adaptive_fore.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-hdpi/apps_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xxhdpi_apps_icon_adaptive_back.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xxhdpi/apps_icon_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.most_popular_applications.app-merged_res-7:/mipmap-xhdpi_apps_icon_adaptive_back.png.flat",
+        "source": "com.example.most_popular_applications.app-main-1:/mipmap-xhdpi/apps_icon_adaptive_back.png"
+    }
+]
